@@ -1,42 +1,45 @@
-#Machine Learning A-Z Course Practice
+# Machine Learning A-Z Course Practice
 This repository contains my code, notes, and exercises from the Machine Learning A-Z course on Udemy. It covers a comprehensive range of machine learning techniques, with practical implementations and insights.
 
-Contents
-Data Preprocessing
+## Contents
+-Data Preprocessing
+    Data cleaning, encoding, scaling, and dataset splitting.
 
-Data cleaning, encoding, scaling, and dataset splitting.
-Regression
+-Regression
+    Simple Linear, Multiple Linear, Polynomial Regression, and more.
 
-Simple Linear, Multiple Linear, Polynomial Regression, and more.
-Classification
+-Classification
+    Techniques such as Logistic Regression, KNN, SVM, Naive Bayes, and Decision Trees.
 
-Techniques such as Logistic Regression, KNN, SVM, Naive Bayes, and Decision Trees.
-Clustering
+-Clustering
+    Methods including K-Means and Hierarchical Clustering.
 
-Methods including K-Means and Hierarchical Clustering.
-Association Rule Learning
+-Association Rule Learning
+    Techniques like Apriori and Eclat.
 
-Techniques like Apriori and Eclat.
-Reinforcement Learning
+-Reinforcement Learning
+    Basics of Thompson Sampling and Upper Confidence Bound.
 
-Basics of Thompson Sampling and Upper Confidence Bound.
-Natural Language Processing
+-Natural Language Processing
+    Text cleaning, Bag-of-Words, and sentiment analysis.
 
-Text cleaning, Bag-of-Words, and sentiment analysis.
-Deep Learning
+-Deep Learning
+    Neural network fundamentals with examples using Keras and TensorFlow.
 
-Neural network fundamentals with examples using Keras and TensorFlow.
-Dimensionality Reduction
+-Dimensionality Reduction
+    Techniques like PCA, LDA, and Kernel PCA.
 
-Techniques like PCA, LDA, and Kernel PCA.
-Model Selection & Tuning
+-Model Selection & Tuning
+    Cross-validation, Grid Search, and Random Search.
 
-Cross-validation, Grid Search, and Random Search.
-Usage
+## Usage
 Each topic includes Jupyter notebooks with explanations and examples. Use Jupyter Notebook or compatible editors to explore the code.
 
-Resources
-Course Link: Machine Learning A-Z on Udemy
-Libraries Used: numpy, pandas, matplotlib, scikit-learn, keras, tensorflow
-Updates
+## Resources
+
+- **Course Link**: [Machine Learning A-Z on Udemy](https://www.udemy.com/course/machinelearning/)
+- **Libraries Used**: `numpy`, `pandas`, `matplotlib`, `scikit-learn`, `keras`, `tensorflow`
+
+## Updates
+
 This repository will continue to be updated with new projects or further insights.
