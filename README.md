@@ -1,4 +1,4 @@
-Machine Learning A-Z Course Practice
+#Machine Learning A-Z Course Practice
 This repository contains my code, notes, and exercises from the Machine Learning A-Z course on Udemy. It covers a comprehensive range of machine learning techniques, with practical implementations and insights.
 
 Contents
